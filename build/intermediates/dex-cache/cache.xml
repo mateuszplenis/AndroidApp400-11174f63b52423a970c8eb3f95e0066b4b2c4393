@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\student7.WZR\Downloads\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\student7.WZR\Downloads\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-6f1f5419600d9359093c076983c63da205126482.jar" />
+    </item>
+    <item
+        jar="C:\Users\student7.WZR\Downloads\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\student7.WZR\Downloads\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\pre-dexed\debug\classes-2575cd3b155cf84805fe8d1e9565ad996f606f55.jar" />
+    </item>
+    <item
+        jar="C:\Users\student7.WZR\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\student7.WZR\Downloads\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-84c3950118cde88e958a658f5b9f8c464053dc3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\student7.WZR\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.3.2\7d6149d856b880bbd676047aacb8446a758fbbdb\androidannotations-api-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7d6149d856b880bbd676047aacb8446a758fbbdb">
+        <dex dex="C:\Users\student7.WZR\Downloads\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\pre-dexed\debug\androidannotations-api-3.3.2-849a0b90318eabfadd87d7029de7b25dac11a62f.jar" />
+    </item>
+    <item
+        jar="C:\Users\student7.WZR\Downloads\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\student7.WZR\Downloads\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\pre-dexed\debug\classes-36fe3ebd6363fc72e912699a7d6308762496097b.jar" />
+    </item>
+
+</items>
